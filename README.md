@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kushagra8
 - 👀 I’m interested in Software Development and Physics Research
-- 🌱 I’m currently learning Flash with Python
 - 💞️ I’m looking to collaborate on group projects using Java/Python.
 - 📫 Reach me at kushagra8.mehta@gmail.com
 
